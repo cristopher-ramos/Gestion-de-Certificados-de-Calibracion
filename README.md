@@ -178,7 +178,7 @@ Aplicación para que el área comercial registre:
 | Métrica | Antes | Después |
 |---------|-------|---------|
 | Tiempo de digitación por certificado | 3-5 min manual | Automático |
-| Documentos procesados | 0 digitalizados | 5,000+ |
+| Documentos procesados | 0 digitalizados | 8,000+ |
 | Errores de digitación | Frecuentes | Eliminados |
 | Verificación para clientes | No disponible | Web pública |
 | Recordatorios comerciales | Manual / inexistente | Automático |
